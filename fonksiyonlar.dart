@@ -1,7 +1,5 @@
 void main(List<String> args) {
 
-  //Fonksiyonar
-
   cevreHesapla();
   int alan = alanHesapla();
   print("Alan: $alan");
